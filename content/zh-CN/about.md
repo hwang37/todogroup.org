@@ -3,6 +3,8 @@ title: 关于我们
 url: /zh-cn/about/about-us/
 ---
 
+hwang37: test2
+
 组织内部的开源活动面对众多挑战，如：
 
 * 培训开发者使其具备优良的开源习惯
